@@ -1,0 +1,22 @@
+body {
+    background-color:black; /* COMPLETE AQUI (ex: #f8f9fa) */;
+    color:white /* COMPLETE AQUI (ex: #333) */;
+    font-family: Arial, sans-serif;
+    size: 30px;
+}
+
+/* Seções personalizadas */
+.secao {
+    background-color:red /* COMPLETE AQUI (ex: #e3f2fd) */;
+}
+
+/* Formulário */
+.formulario {
+    background-color:cadetblue; /* COMPLETE AQUI (ex: #fff3e0) */;
+}
+
+/* Citação */
+blockquote {
+    font-style: italic;
+    color: /* COMPLETE AQUI (ex: #6c757d) */;
+}
